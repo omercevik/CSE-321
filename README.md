@@ -5,3 +5,5 @@
 Homework 01 -> Handwritten homework
 
 Homework 02 -> Handwritten homework
+
+Homework 03 -> Python code & Report.
