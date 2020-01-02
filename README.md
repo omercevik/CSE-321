@@ -15,3 +15,8 @@ Homework 04 -> Divide and Conquer Python code & Report.
 
                Run in Linux Ubuntu 18.04.3 LTS Terminal
                python3 161044004_hw4_cse321.py
+
+Homework 05 -> Greedy and Dynamic Programming Python code & Report.
+
+               Run in Linux Ubuntu 18.04.3 LTS Terminal
+               python3 161044004_hw5_cse321.py
